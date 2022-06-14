@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Socket V3 SDK",
   tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://rugamoto.github.io/socket-v2-docs/",
   baseUrl: "/socket-v2-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
