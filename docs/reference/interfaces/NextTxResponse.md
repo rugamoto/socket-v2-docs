@@ -4,7 +4,7 @@
 
 - **`NextTxResponse`**
 
-  ↳ [`SocketTx`](../classes/SocketTx.md)
+  ↳ [`SocketTx`](../sdk/SocketTx.md)
 
 ## Table of contents
 

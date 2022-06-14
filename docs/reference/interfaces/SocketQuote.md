@@ -53,7 +53,7 @@ Amount of the quote
 
 ### path
 
-• **path**: [`Path`](../classes/Path.md)
+• **path**: [`Path`](../sdk/Path.md)
 
 The path desired
 

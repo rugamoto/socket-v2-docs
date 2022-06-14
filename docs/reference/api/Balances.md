@@ -21,7 +21,7 @@
 
 ### getBalance
 
-▸ `Static` **getBalance**(`__namedParameters`): [`CancelablePromise`](CancelablePromise.md)<[`TokenBalanceReponseDTO`](../types.md#tokenbalancereponsedto)\>
+▸ `Static` **getBalance**(`__namedParameters`): [`CancelablePromise`](../client/CancelablePromise.md)<[`TokenBalanceReponseDTO`](../types.md#tokenbalancereponsedto)\>
 
 **`throws`** ApiError
 
@@ -36,7 +36,7 @@
 
 #### Returns
 
-[`CancelablePromise`](CancelablePromise.md)<[`TokenBalanceReponseDTO`](../types.md#tokenbalancereponsedto)\>
+[`CancelablePromise`](../client/CancelablePromise.md)<[`TokenBalanceReponseDTO`](../types.md#tokenbalancereponsedto)\>
 
 TokenBalanceReponseDTO Returns the balance of the token on any given chain
 
@@ -48,7 +48,7 @@ TokenBalanceReponseDTO Returns the balance of the token on any given chain
 
 ### getBalances
 
-▸ `Static` **getBalances**(`__namedParameters`): [`CancelablePromise`](CancelablePromise.md)<[`Balance`](../types.md#balance)\>
+▸ `Static` **getBalances**(`__namedParameters`): [`CancelablePromise`](../client/CancelablePromise.md)<[`Balance`](../types.md#balance)\>
 
 **`throws`** ApiError
 
@@ -61,7 +61,7 @@ TokenBalanceReponseDTO Returns the balance of the token on any given chain
 
 #### Returns
 
-[`CancelablePromise`](CancelablePromise.md)<[`Balance`](../types.md#balance)\>
+[`CancelablePromise`](../client/CancelablePromise.md)<[`Balance`](../types.md#balance)\>
 
 Balance Returns the balance of all tokens for a user address on all supported chains
 
